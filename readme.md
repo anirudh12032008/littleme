@@ -25,6 +25,22 @@ Roll - Roll a dice.
 Help - Show the help message.
 there is also a secret command, try to find it!
 
+
+# installation
+
+```bash
+git clone https://github.com/anirudh12032008/littleme.git
+cd littleme
+```
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+pip install littleme
+```
+
+
 # Usage
 ```bash
 littleme help
@@ -36,15 +52,7 @@ littleme talk "Hello Little Me!"
 littleme art "Hello World"
 ```
 
-# installation
 
-<!-- pip install littleme -->
-
-```bash
-pip install littleme
-```
-
-```bash
-pip install -r requirements.txt
-```
-
+#  Why I Created It
+I created this cli project to make learning fun and interactive by learning from your own mistakes and getting roasted by a virtual clone of yourself who still motivates you to do better
+rather then just some todo app or a note taking app why not have a virtual clone of yourself who will even roast you every time, lol
